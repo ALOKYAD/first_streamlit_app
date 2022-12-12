@@ -6,3 +6,5 @@ st.write("Breakefast Menu:")
  st.write("Omega 3 & Blueberry Oatmeal:")
  st.write("Kale ,Spinanch & Rocket smoothie:")
 st.write("Hard-Boiled Free-range Egg:")
+streamlit run streamlit_app.py
+
