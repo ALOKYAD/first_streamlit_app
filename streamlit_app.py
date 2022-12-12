@@ -1,9 +1,9 @@
-import streamlit
+import streamlit as st
 
-streamlit.title('My Parents New Healthy Diner')
+st.title('My Parents New Healthy Diner')
 
 
-streamlit.write("Breakefast Menu:")
- streamlit.write("Omega 3 & Blueberry Oatmeal:")
- streamlit.write("Kale ,Spinanch & Rocket smoothie:")
-streamlit.write("Hard-Boiled Free-range Egg:")
+st.write("Breakefast Menu:")
+ st.write("Omega 3 & Blueberry Oatmeal:")
+ st.write("Kale ,Spinanch & Rocket smoothie:")
+st.write("Hard-Boiled Free-range Egg:")
