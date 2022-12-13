@@ -1,10 +1,10 @@
-import streamlit as st
+import streamlit
 
-st.title('My Parents New Healthy Diner')
+streamlit.title('My Parents New Healthy Diner')
 
-st.header('Breakefast Menu')
- st.text('Omega 3 & Blueberry Oatmeal')
- st.text('Kale ,Spinanch & Rocket smoothie')
+streamlit.header('Breakefast Menu')
+ streamlit.text('Omega 3 & Blueberry Oatmeal')
+ streamlit.text('Kale ,Spinanch & Rocket smoothie')
 streamit.text('Hard-Boiled Free-range Egg')
 
 
